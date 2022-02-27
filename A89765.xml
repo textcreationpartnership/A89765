@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A notable and pleasant history of the famous renowned knights of the blade, commonly called Hectors or, St. Nicholas clerkes. Wherein is shewed how they first came to that name and profession, with the manner of their life and conversation, and what lawes and rules they have made to be observed by them. Being a good caution to all gentlemen, strangers, and travellours, to know thereby, a way to discover them, and also to prevent them. Very necessary to be published in these times, for a generall good to the common-wealth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89765</idno>
+            <idno type="STC">Wing N1389</idno>
+            <idno type="STC">Thomason E659_14</idno>
+            <idno type="STC">ESTC R206707</idno>
+            <idno type="EEBO-CITATION">99865820</idno>
+            <idno type="PROQUEST">99865820</idno>
+            <idno type="VID">118071</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118071)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E659[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A notable and pleasant history of the famous renowned knights of the blade, commonly called Hectors or, St. Nicholas clerkes. Wherein is shewed how they first came to that name and profession, with the manner of their life and conversation, and what lawes and rules they have made to be observed by them. Being a good caution to all gentlemen, strangers, and travellours, to know thereby, a way to discover them, and also to prevent them. Very necessary to be published in these times, for a generall good to the common-wealth.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Richard Harper, at the Bible and Harpe in Smithfield,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill. 8.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Outlaws --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118071:1" rendition="simple:additions"/>
+            <p>A notable and pleaſant HISTORY OF THE Famous renowned Knights of the Blade, commonly called HECTORS Or, St. NICHOLAS CLERKES.</p>
+            <p>WHEREIN Is ſhewed how they firſt came to that Name and Profeſſion, with the manner of their Life and Converſation, and what Lawes and Rules they have made to be obſerved by them.</p>
+            <p>Being a good Caution to all Gentlemen, Strangers, and Travellours, to know thereby, a way to diſcover them, and alſo to prevent them.</p>
+            <p>Very neceſſary to be publiſhed in theſe times, for a generall good to the Common-wealth.</p>
+            <p>Printed at <hi>London,</hi> for <hi>Richard Harper,</hi> at the Bible and Harpe in Smithfield. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="chapter">
+               <pb facs="tcp:118071:2"/>
+               <pb n="1" facs="tcp:118071:2"/>
+               <head>CHAP. I. Sheweth how the <hi>Hectors</hi> of the times came to their profeſsion, and how they got that noble Name.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Here was no ſooner an end put to the Wars of <hi>England,</hi> but a great company of Officers and Souldiers being diſcarded, they repai<g ref="char:EOLhyphen"/>red to the famous City of <hi>London,</hi> in hope that new troubles would ariſe, to main<g ref="char:EOLhyphen"/>tain them in the ſame diſordered courſes they formerly practiced in the Armies, but miſſing fewell to feed the fire of their deſires, they began to ſtudy living by their wits; A plauſable terme the Gallants are pleaſed to afford their actions: and after ſeveral conſultations held a<g ref="char:EOLhyphen"/>mongſt them, 'twas thought convenient by the better ſort to diſpoſe themſelves into certain gangs and companies, where, for their better ordering affaires they tooke to themſelves the name of <hi>Hectors,</hi> otherwiſe <hi>Knights of the Blade:</hi> But proceſſe of time brought other looſe Fellowes into their company, who affected with the ranting humours and man<g ref="char:EOLhyphen"/>ner of life, which theſe Bravado's led, they imbraced to themſelves the profeſſion and Name of <hi>Hectors;</hi> a thing not much to be admired; conſidering how theſe odde kind of people doe live at as high expence of Dyet, Drinke, and Cloathes, as moſt Gentlemen of eſtates in this Common<g ref="char:EOLhyphen"/>wealth; And to the better clearing of the buſineſſe, I will very exactly diſcover unto you, their profeſſion, manner of life, Laws, Articles, Cuſtomes, and what not, to the condu<g ref="char:EOLhyphen"/>cing to their ends of living.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="2" facs="tcp:118071:3"/>
+               <head>Chap. II. Sheweth their Profeſſion and manner of Life.</head>
+               <p>AS for their profeſſion 'tis an art will require both ex<g ref="char:EOLhyphen"/>penſe and obſervation, with ſome pains, ere a man can become a perfect proficient in it: And certainly, the firſt founder of it was ſome ingenious man; who ſcorning to be beholding to a Trade, or other Art to get a living, but ſuch as might carry with it a great ſence of pleaſure, did out of ſe<g ref="char:EOLhyphen"/>verall humors of ſeveral men, ſtudy ſo much, till it brought him to an abſolute practice. But to the purpoſe, Some though they for a while live well, yet, are often ſo unhappy, as to die ill: 'tis a profeſſion which expoſeth them to all ſorts of hazards and perils, as to Priſons, Marſhalſees, Seſſions; and at laſt to the Metropolitan Seſſions of the Old Baily, where 'tis ten to one, but a reverend Judge, with the help of E<g ref="char:EOLhyphen"/>vidences, and Jury, doth put an end to their labours. The truth of it is, thoſe that (as commonly, moſt do) live mad<g ref="char:EOLhyphen"/>ly, doe dye tamely; yet ſome there are, who having ſoules like <hi>Hector</hi> indeed (though imployed to worſe ends) do go to <hi>Tiburne</hi> with as much ſeeming chearfulneſſe, as another may go to a Taverne; They live all upon the ſpoyle, and very often undo one another, for want of a general acquain<g ref="char:EOLhyphen"/>tance; for you muſt know, there are ſeveral Gangs or Com<g ref="char:EOLhyphen"/>panies, ſome meaner, and ſome higher; but alwaies a provi<g ref="char:EOLhyphen"/>dent care is had, that if upon inquiry the buſines may be diſ<g ref="char:EOLhyphen"/>covered, ther is to the wronged party a reſtitution made, but this muſt be referred to the diſcription of their Laws, &amp; Cu<g ref="char:EOLhyphen"/>ſtoms which in the nextch<g ref="char:punc">▪</g> you ſhal have at ful Al that I can ſay to their maner of life is, that it conſiſts much in cheat and couſenage, gaming, decoying, pimping, whoring, ſwearing, and drinking, and with the nobler ſort, in robbing.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>Chap. III. Sheweth their Lawes, Articles and Cuſtomes eſtabliſhed among them.</head>
+               <p>I Come now to treat of their Lawes, Articles, and Cu<g ref="char:EOLhyphen"/>ſtomes, by which they ſteere and guide this great <hi>Hectore<g ref="char:EOLhyphen"/>an</hi> work of theirs, to the beſt advantage for themſelves. And to begin, Firſt, that no man ſhall be admitted into their
+<pb n="3" facs="tcp:118071:3"/>
+Gangs or Companies, whilſt they have any Guelt, or till it be ſpent upon the Gang or Company into which they are to ingage themſelves. 2. That no quarrell amongſt themſelves ſhall bee brought to Duell, but by the conſent of that whole Gang; or it muſt be reconciled by any two or more, no man ingaging as a ſe<g ref="char:EOLhyphen"/>cond without the like conſent. 3. That they ſhal without diſpute cheat any man, though it were the father of one of them, and the ſon of ſuch a father, not to be offended at it. 4. That they ſhall give a true account of what Cloaks, Hats, Swords, Mony, Rings, or other purchaſe ſhall be gotten upon the adventure, and a pro<g ref="char:EOLhyphen"/>portionable allowance given to the maintenance of the Gang where they bee ingaged. 5. That they ſhal not at any band re<g ref="char:EOLhyphen"/>veale or diſcover the houſe or houſes of randeſvouze, where ſuch moneys or prizes ſo taken are ſhared, and commonly ſpent. 6. That if any one or two or more, ſhall miſcarry by diſcovery, by apprehenſion, or ſurprizall, they ſhall not though in caſe of death, diſcover any other parties of the Gang. 7. That who<g ref="char:EOLhyphen"/>ever ſhall be ſo prodigal in their ſpeech, as in their ranting to produce any diſcourſe of their manner of life, ſhall have a round forfeit laid on him, which ſhal be payable out of the ſhare of the next purchaſe, and be ſpent amongſt the Gang; for it is a point of diſhonour in them to take dry mony, in ſuch caſes, from any brother of the ſword, otherwiſe called <hi>Hectors.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>Chap. IV. Proſecuteth the ſtory of the <hi>Hectors</hi> with their deſigns and Plots.</head>
+               <p>NOw you have heard their Lawes and ordinances, you muſt give me leave to acquaint you with their deſigns and plots, which are commonly very thriving, ther muſt then be a good ac<g ref="char:EOLhyphen"/>quaintance &amp; correſpondence with moſt Taverns of reſort, great Ians, and Ordinaries, for thither repair the men with fleeces that theſe gallants intend to ſhear, and if there chance to be any Gen<g ref="char:EOLhyphen"/>tleman that hath occaſion to go abroad in the night, theſe receive from one of the foreſaid places an Alarme, and tis a thouſand to one but there is a purchaſe made of Hat, Cloak, and mony; then they have certaine Decoyes, that goe finely clad, who enter Or<g ref="char:EOLhyphen"/>dinaries, and gaming houſes, and then draw on young puny Gen<g ref="char:EOLhyphen"/>tlemen to play, and ſuffer them to win, till delivering them to abler Gameſters of their Gang, they never leave the poore
+<pb n="4" facs="tcp:118071:4"/>
+foole till he have never a croſſe left to bleſſe himſelfe with<g ref="char:punc">▪</g> which is his greateſt croſſe; well, they proceed on with others, and perhaps quarrell, which with eagerneſſe they purſue, and the young Gentlemen to ſave their skins, commonly come off with twenty pound, a Breakfaſt, or ſome other treatment; but one maine deſigne they have very conſiderable, which is, the ſetting two young Heires together by the eares, and then the Gang divides, ſome encline to this party, others to that; well, ſeconds are propounded, and it muſt be fought on Horſe-back, but becauſe the <hi>Hectors</hi> are not intereſſed, but upon the young Gentlemens ſcore, they muſt provide Horſes, with conve<g ref="char:EOLhyphen"/>nient furniture; which done, there are not wanting ſome of the Gang to perſwade the young Gentlemen to peace; who at firſt like brave Gallantoes, and ſtout men, ſcorne ſuch motions, but drawn on by good words, and ſtrong perſwaſions, they referre it to Arbitration, and this drawes large rewards to the Um<g ref="char:EOLhyphen"/>pieres, the buſineſſe is agreed on, the Gentlemen made friends; but now the ſeconds ſtorme, ſaying, They are abus'd, to be drawne into engagement to no purpoſe; the Gentlemen to ſtop their mouthes, gives them ſome handſome gratuity beſides their Horſes and Armes, and now by this device they are moun<g ref="char:EOLhyphen"/>ted for the High way.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>Chap. V. Sheweth how the <hi>Hectors</hi> imploy themſelves when in ſtock, with other flim flams fit to be recounted.</head>
+               <p>TO proceed, the <hi>Hectors</hi> having got themſelves in ſtocke, muſt now for a while ſolace themſelves in pleaſure, and they firſt march to a Baudy-houſe, for the recreation of a Wench, where many times they finde that ſervice ſomething of the hotteſt, and returne ſoundly clapt, but however theſe things muſt be done; after ſome time ſpent there, according to their fancies, every man his Wench, they part, going whether their diſpoſitions, or intereſt in friends lead them; good company without queſtion, for you muſt take notice every man carries his Wench with him, and they ramble, Coaching it up and down as long as any money laſts, and then theſe valiant <hi>Hectors</hi> have the trick (for the concluſion of their mirth) of the paw<g ref="char:EOLhyphen"/>ning the poore Girles for ſome deep reckoning. But here I can<g ref="char:EOLhyphen"/>not
+<pb n="5" facs="tcp:118071:4"/>
+forget the Story of one witty Girle, who being taken a<g ref="char:EOLhyphen"/>broad by one of theſe Gallants, who was very full of money, ſhe having been formerly acquainted with ſuch active youthes; did every night for concluſion make him ſoundly drunk, in which time ſhe would call for the reckoning, which he in that humour would pay, and afterwards ſhe would pick his Pockets of ſome proportion of monies, which he would not miſſe, ima<g ref="char:EOLhyphen"/>gining all went in reckonings, at laſt one way and other all was gone; then he began to tell the Lady of Pleaſure the end of his ſtock, who reſolute to put a trick upon him, told him, ſhe had monies, and now in requitall ſhe would treat him, which was accepted; ſo they continued their mirth, and cheere till the reckoning came to ſome foure pound; ſo one evening ſhe, as ſhe was accuſtomed, going downe to beſpeake what ſhe lik'd for Supper, ſeeing the way cleare, gave him the adiew, leaving the Gentleman in the lurch, who was faine with the reſigning up his rich Cloake to make even the reckoning, and was faine to march with a Plimouth cloake in <hi>querpo,</hi> till an after pur<g ref="char:EOLhyphen"/>chaſe gave him a recruit.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>Chap. VI. Sheweth what the <hi>Hectors</hi> (when all deſignes faile them) doe to recruit.</head>
+               <p>WHen they are cleare out of ſtock, and know not what to doe by reaſon of miſſing their Adventures, they pre<g ref="char:EOLhyphen"/>ſently conſult what courſe to take, at laſt one of them hath ſome ſlight acquaintance with ſome Country Gentleman, or ſome Punie of the Innes of Court, to whom he is reſolved to ſend a Letter for a recruit; wherein he intimates his being a Gentleman, his being driven to a preſent ſtreight, which he de<g ref="char:EOLhyphen"/>ſires he would be pleaſed to remedy, &amp; he ſhal be re-paid at plea<g ref="char:EOLhyphen"/>ſure; this is ſent by ſome well ſpoken Gallant of the Gang, who muſt have a great portion of confidence, and upon deniall of the favour take the liberty to tell him, That it is an abuſe for the Gentleman to loſe his expectation, and himſelfe his labour; this may perhaps workes my peaceable man, if not, comes a di<g ref="char:EOLhyphen"/>rect challenge, and that undoubtedly doth it; ſo for the pre<g ref="char:EOLhyphen"/>ſent there is a recruite of ſome five, or tenne, perhaps twenty pounds, which conveyed to a Taverne, makes them merry with
+<pb n="6" facs="tcp:118071:5"/>
+Sack, till they contrive ſome abler Plots, or have ſome adventure happen to them, which by and by will without queſtion befall them.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>Chap. VII. Sheweth their Taverne humours, with other things pertinent.</head>
+               <p>IN this veine of Mirth they continue, when enters the houſe ſome two or three Gentlemen, with a diſpoſition to be merry; they are by the <hi>Hectors</hi> perceived, who now intend a prize, they then firſt by ſome occaſion or other, cauſe one of their company to give an affront, the Gentlemen they ſtomach it, and the <hi>Hectors</hi> ſeemingly chide their Companion for his fault, which ſo much the more whets the Gentlemen on, at laſt they grow ſo high that the whole Gang ſuddenly ſide with their companion, profeſſing that the others were to blame, not to be content with their chiding him; hereupon begins an univerſall quarrel, ſo for the more handſomneſſe they for the preſent leave brawling, and betake themſelves to one roome, where they calmely diſpute it; at the upſhot, either it is ended by Duel, (if ſo the <hi>Hectors</hi> may have an ill adventure of it) or by com<g ref="char:EOLhyphen"/>poſition which doth moſt commonly happen, and then it is to their great advantage, for though moſt men wil ſtand upon terms of revenge and juſtification, yet they will not all fight, and the truth of it is, the <hi>Hectors</hi> for the moſt part are men compoſed of much courage and reſolution, but unhappy in the want of a better imployment; however I will here inſert a Story of a Gentleman who was drawne in to be a <hi>Hector;</hi> he coming to Towne, and falling into the company of theſe Gallants, did be<g ref="char:EOLhyphen"/>have himſelfe ſo merrily, and pleaſingly, that they much eſtee<g ref="char:EOLhyphen"/>med him, and he by their carriage, and ſome diſcourſes he had heard of them, ſuſpected them to be what in truth they were; ſo frolick with wine, he was reſolved to put a tricke upon them in his company, which were three; he deſires them to tell him, how he might get an acquaintance with the <hi>Hectors,</hi> of whoſe company he would gladly be one; they diſcover themſelves, and propound the conditions, which are accepted, ſo the Gen<g ref="char:EOLhyphen"/>tleman ſpends all his money, and pawnes his rich Cloake for ſix pound more, which was laid downe on the table to be ſpent, and then the aforeſaid Lawes were read, and an Oath taken,
+<pb n="7" facs="tcp:118071:5"/>
+that whatſoever they did to one another ſhould not come within the compaſſe of a quarrell. All agreed, they fall merrily to drink<g ref="char:EOLhyphen"/>ing, but on a ſuddain the new ſworn <hi>Hector</hi> ſtart<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up, puts on his ſword, and ſeizing the mony, pockets it, and ſtepping to a chaire takes one of the <hi>Hectors</hi> Cloakes, full as good as his owne, and ſo offers to goe away, the company askes him what he means, he an<g ref="char:EOLhyphen"/>ſwers to keep his oath, which as wel as he could remember was to cheat any, yea, his own father for a need; and that they were bound by oath to be ſatisfied, but if not, he wore a ſword and would ju<g ref="char:EOLhyphen"/>ſtifie it, and ſo departed, leaving my <hi>Hectors</hi> for the preſent, but afterwards upon further acquaintance he reſtored the Cloak, howe<g ref="char:EOLhyphen"/>ver they were forced to pay the reckoning.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>Chap. VIII. Recounts ſeverall flim-flams in relation to the brave redoubled <hi>Hectors,</hi> but no kin to <hi>Trojans.</hi>
+               </head>
+               <p>ANd thus theſe people drive on a ſtrange Trade, ſometimes have mony, ſometimes none, but always confident and ful of hope; if any hath it, they will be bold to accept part, whether you will be ſo courteous as to give it or no; but in earneſt, what they get they put to a good thrifty uſe, without which, they could not maintain their credit in houſes of ſo great reſort as they commonly come to, and that is drinking, which trade, when all others faile, they cloſely ap<g ref="char:EOLhyphen"/>ply themſelves to, and they will at ſome place or another pump hard but they will procure a credit, which they manage with ſuch diſcretion that tis wonderfull to ſee; this without doubt is one of their deep fetcht policies, to make ſure ſome certain place to repair to where they may not want theſe two great helps to life, Drinke and Tabacco; which for the moſt part eſpecially, at vacation time is the beſt of their ſuſtenance; &amp; another grand convenience they have, in being certain where to meet, to foment new deſigns; which though dangerous, theſe well imployed Gentlemen are pleaſed to call convenient. They have ſeverall Scouts upon the by, that give them certaine intelligence of Booties and Prizes, which to neglect, would to themſelves call their care and valour into queſtion; and another mad thing they receive, that ſuch neglect is huge ill huſ<g ref="char:EOLhyphen"/>bandry, though many times they are driven to make their account even at Tiburne. A great many pretty fine tricks they have to per<g ref="char:EOLhyphen"/>ſwade themſelves into this miſcheif, into which being once entered
+<pb n="10" facs="tcp:118071:6"/>
+they cannot finde one to fetch them out, beſides that of the hal<g ref="char:EOLhyphen"/>ter, which though others eſteem baſe, yet theſe think an ornament; and when moſt ſhall pitty ſuch fatal courſes, they like great Poten<g ref="char:EOLhyphen"/>tates, want not flatterers to perſwade them into it.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>Chap. IX Sheweth other paſſages and courſes that the <hi>Hectors</hi> take, but for all that they may come to be hanged</head>
+               <p>IT is a common ſaying and a true, <hi>as you live ſo you dye;</hi> and much verified by theſe gallants, only a little altered, <hi>as they live madly, they dye ſadly:</hi> but much good may it doe them, 'tis their own ſee<g ref="char:EOLhyphen"/>king. They muſt to the high and mighty houſes, where the Ladies of Pleaſure doe abide, and your meaner ſort of <hi>Hectors</hi> to the pit<g ref="char:EOLhyphen"/>tiful poore pimping-places of <hi>Sodome</hi> and <hi>Gomorah,</hi> names bad e<g ref="char:EOLhyphen"/>nough to turn a ſquemiſh ſtomach. I could name ſome perſons and places of quality but I forbear, onely to let the world know there is ſuch a Tribe in the world, which I cannot imagine did ever be<g ref="char:EOLhyphen"/>long to thoſe of <hi>Iſrael,</hi> but let that paſſe, the devil muſt have his due, and ſhal, or elſe theſe blades wil want of their wil, for they are ſo ſerious in their buſineſſe, that they will play at ſmall game rather then ſit out: beleive it they are pretty fellowes, if you wil not you may chuſe, for they will do themſelves that courteſie as to beleeve it, and that is more then they doe in God; but ſtay, forbeare, not too much of that neither, leaſt they take pet and grow angry, then roare ſir <hi>Roger,</hi> Gunpowder Treaſon would not have given the Kingdome ſuch a clap, as the <hi>Hectors</hi> would you, if you ſtir their ſpleen too much; but no matter, nothing venture nothing have; then ile proceed, for ſince I have ſhewne you ſome of their tricks, which be more then are good, Ile out with all, and then if you will not thank me you may chuſe. They have a certaine rule amongſt them, to ſhare as precizely in their Wenching, as in their Purchaſe, which they cal knocking level coine, though oftentimes they receive harſh clappings, for more eaſie knockings; And here, and at the Gallowes they are moſt truly met withall; their lechery impaires their health, and the <hi>Hectorean</hi> purchaſing, priſing and robbing con<g ref="char:EOLhyphen"/>cludes their lives, and did their miſery conclude there, 'twould be a great incouragement for others to venture.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="11" facs="tcp:118071:6"/>
+               <head>Chap. X. Proſecuteth the ſtory of the <hi>Hectors,</hi> with ſeverall Ran-Dan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</head>
+               <p>BUt now roome for the new <hi>Trojans,</hi> the valiant <hi>Hectors,</hi> the Champions of the times, and Creams of Valour, the never e<g ref="char:EOLhyphen"/>nough renowned Gallanto's. For behold they are entred as drunk as <hi>Davids</hi> Sow, and now they begin their leſſe hurtfull pranks, they firſt diſtaſt the wine,) and then they lend the pot to the Draw<g ref="char:EOLhyphen"/>ers head; who with a ceremonious leg takes it up, gives thanks for the favour, and downe ſtaires he whips as light as a Tumbler; in his abſence they ſcan the abuſe, revile the houſe and all the family, proteſting againſt it; and drinking there any more; but whilſt they are in this fret and fume, behold the caſe is altered, and the Drawer returned with freſh wine; they taſte it, and with charity to the honeſt good people of the houſe they beleeve it to be very good wine, when before God tis three times worſe then the former, however, ſince it pleaſeth let it paſſe, and honeſt Drawer ſerve them ſo ſtil. Wel, they drinke, and then adue Taverne, to the compleat Madams they goe, Ladies that are lodged and bred (and prettily too) in the moſt fa<g ref="char:EOLhyphen"/>mous vaulting Schooles, where they exerciſe knocking, and that in variety: But at that time, and ſo pittifully drunk, they had as good the devil had made a viſit to them, for at firſt daſh upon the left diſtaſte they quarrel with their black-patches, and ſo rudely handle them that they put the poor wretches bodies (generally in<g ref="char:EOLhyphen"/>diſpoſed to ſuch uſage) to as great torment as ever Inchanter did any Knight Errant: They proceed ſo far in their diſorder, that the reverend Matrom of the houſe is forced to require a Conſtable, up<g ref="char:EOLhyphen"/>on whoſe approach with aſſiſtance, the Gang is apprehended, but perhaps not without reſiſtance, and are carryed before the next Ju<g ref="char:EOLhyphen"/>ſtice, who loath to breed much trouble to himſelfe for the preſent it being late, orders them to a certain place called the Round houſe, and this is the concluſion of that nights work; where, after all their bravery and ranting, they are glad to take a bad nights lodging, where we leave them til the morning.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>Chap. XI. Relates the freedome of the <hi>Hectors</hi> from impriſonment.</head>
+               <p>THe devil is alwaies good to his children, though in the end they pay for it, as appeareth by the ſtory of the <hi>Hectors,</hi> for the morn<g ref="char:EOLhyphen"/>ing coming, they are brought before worſhipful Mr. Juſtice, and there
+<pb n="10" facs="tcp:118071:7"/>
+examined, but O the good ſtars that guide them! The Matrom, otherwiſe, Miſtris Baud, with the Ladies, <hi>alias</hi> Whores, after de<g ref="char:EOLhyphen"/>parture from the Juſtice, conſulting what were beſt to be done, they conclude, (that conſidering, the bringing theſe gallants to the priſon might perhaps cauſe ſome others who ſuſpected them for worſe actions to fall foule on them, and perhaps bring them to a priſon, whence they ſeldome depart without a Noſe<g ref="char:EOLhyphen"/>gay and a prayer booke: beſides, cwould occaſion a great loſſe of trade to them, and put others upon revenge, (which Whores fear worſe then the devil) that no one would ſtir in the proſecution of them: the Juſtice ſeeing no accuſers, and they ſo wiſe as not to confeſſe any thing of themſelves, is content to let them goe upon ſecurity they will appeare before him when called; and the Con<g ref="char:EOLhyphen"/>ſtable who is very wel acquainted with ſuch buſineſſes becomes ſe<g ref="char:EOLhyphen"/>curity to the Juſtice, thus they are diſmiſt. But this happens not ſo well at all times, for often the bold Whores, who as they fear, ſo they love revenge, doe proſecute them eagerly, with different ſuc<g ref="char:EOLhyphen"/>ceſſes, but ſuch things at one time or other do never want a revenge.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>Chap. XII. Recounteth a great many Flim-Flams, happening to the <hi>Hectors</hi> upon the Ran-Dan.</head>
+               <p>ANd now they go to it had-nab, for they being freed, gives them occaſion to report their danger and ſafety to their other acquaintance, which ſerves as a Decoy to draw their liquor down, which is taken ſo luſtily that they become as drunk as ever; and in this veine they remember the infinite goodneſſe of the Wenches, that forbore proſecuting them: Well, 'twere beneath Gentlemen to let favours of ſuch an extraordinary quality goe un-required. I am of opinion theſe people are better then halfe mad, to exerciſe ſuch civilities to a company of damned bitch Whores, thither they goe, where after certain complements they become friends, and then begins the ſport which would make a horſe burſt his halter, for there is ſuch ſinging, dancing, (and without queſtion the noble exerciſe of vaulting on a bed ſo much ſpoken of, is not left unpracti<g ref="char:EOLhyphen"/>ſed,) and drinking of healths ſtreined through the girles ſmocks, ſtripping off cloathes, leaping over ſtooles, drinking healths under thighs, women and all, with Coats and Smocks turned up, heigh for <hi>Anthony;</hi> with ſuch other pretty ſeat whimſies, which admini<g ref="char:EOLhyphen"/>ſters ſuch a delight to the old Band (who for ſeven yeares paſt had
+<pb n="11" facs="tcp:118071:7"/>
+left to be a woman, and can now doe nothing but mump) that 'tis her only jocund recreation; the Devil is in them all I thinke, here's a ſtirre, God Dam—, cryes one (in a rapture) here's a health to Liberty, and the Devil take the Juſtice; O Brother, quoth a ſecond, have a care, Hedges have eares; Pla— on thee cryes a third, what Hedges? here be no Hedges quoth a fourth, but the Wenches Commodities, and they are Ditches too; gray mercy quoth another, I never heard they had eares before, but faith ile try to confirme it; and then begins the frolick ſir, Tan<g ref="char:EOLhyphen"/>tara rara, ſhe trots, ſhe trots; Hey-day, here's a coyle, at which the old Bawd ſits and mumps, full ſorry thoſe dayes are paſt with her, but what cannot be cur'd muſt be endur'd; at laſt comes night, the company breakes up, and to their lodgings till morning.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>Chap. XIII. Sheweth their continuall practiſe.</head>
+               <p>WEll, the morning is come, and the Gang met at a tipling-ſchoole, perhaps no money, or but a very little, how ever thither they come, as having ſome credit there; their firſt query is, where to dine; and their ſecond is, how to pay for it; 'tis not long in diſpute, but put to a venture, they reſolve on a Cookes ſhop known by any one of the Gang, where they drop in two by two; he that is acquainted with the Cooke beſpeakes the Dinner, which when ready is brought up, and eaten; if there be ſo much money left among them, one cals the Boy privately, and bids him fetch a Bottle of Wine, which when brought, the firſt <hi>Hector</hi> ſeeing it ſtormes, and chaſes, calling up the man of the houſe, and tels it him in a great deale of rage, the boy is chidden, and perhaps gets a cuffe on the eare, but however the meat is eaten, and the drinke is drunke, after Dinner comes a Pipe of Tobacco, and then diſcourſe, ſo the firſt <hi>Hector</hi> that beſpoke the Dinner, makes the Cooke ſit downe, and then tels the Gentlemen what an honeſt Cooke he is, with a great deale of circumſtance, deſiring his friends ſo long as they ſtay in Towne to frequent his houſe, which they moſt cere<g ref="char:EOLhyphen"/>moniouſly promiſe; this workes hugely on the Cook, who thinks himſelfe much indebted to this Gentlemans care; to be ſhort, he cals the Cooke aſide, bids him ſcore the Dinner for him, for meet<g ref="char:EOLhyphen"/>ing the Gentlemen being but new come to Towne, he was unpro<g ref="char:EOLhyphen"/>vided of monies, only a little to goe to the Taverne after Dinner;
+<pb n="14" facs="tcp:118071:8"/>
+but he would ſend it as ſoone as he got to his Lodging; the Cooke thankes him, and up comes a bottle of Wine, the Cock<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-combe had ſent for out of his new hopes, which is gratefully accepted by the Gentlemen, and drunke accordingly, ſo in concluſion having plentifully dined, and taken order for the reckoning, they depart in queſt of new adventures, which Gallants of this ſtampe can ſel<g ref="char:EOLhyphen"/>dome miſſe.</p>
+            </div>
+            <div n="14" type="chapter">
+               <head>Chap. XIIII. Releteth new adventures happening to the <hi>Hectors.</hi>
+               </head>
+               <p>VEry well armed againſt Hunger they take the ſtreetes, not all together, that were too notable, but two and two, and on ſeveral ſides, ſo they walk directly along, and it often happens that ſome or other of them juſtles ſome Gentleman, whom by attendance, or garb, they imagine of quality and eſtate; the Gentleman ſcor<g ref="char:EOLhyphen"/>ning affronts, reſents it, and will not yeeld the wall; and the o<g ref="char:EOLhyphen"/>ther, for ſo the Plot muſt be, deſires forbearance in the ſtreet, and they ſhall give and take ſatisfaction in another place, concluded, they goe to a Taverne, where they diſpute the buſineſle, which at the upſhot comes to this; The Gentleman who was affronted conſiders his Wife, Children, and eſtate, weighes not ſo much the hazzard of fighting, as inconveniencies which will ariſe to thoſe neare relations, and ſuſpecting the truth of the buſineſſe, pro<g ref="char:EOLhyphen"/>pounds ſome reward to excuſe fighting, which though at firſt ſlighted, yet at laſt comes off for a matter of twenty Peeces, which is counted a pretty good adventure; and for all my jeaſting, let me tell you one thing of their honeſty, they returne and pay the Cook, beſpeake a Supper, whereby they erect a credit, and if you doe not heare they leave him in the lurch at laſt, then it is a Miracle, and ſo farre they may be reputed honeſt.</p>
+            </div>
+            <div n="15" type="chapter">
+               <head>Chap. XV. Sheweth other quirks and quillets of the <hi>Hectors.</hi>
+               </head>
+               <p>
+                  <hi>ILe now tell you a ſtory convenient for this History, in relation to the bu<g ref="char:EOLhyphen"/>ſineſſe formerly related, and 'tis thus; A certaine Gentleman of good quality walking in the Street encountreth a</hi> Hector, <hi>who very fine, thought to have taken the Wall, and ſo clapt cloſe to it; the Gentleman ſuſpecting nothing, ſeeing him clap ſo cloſe to the wall, asked, what he meant, the</hi> Hector <hi>replyes, I will not give the wall to any foole in</hi> England; <hi>but I will, replyed the Gentleman, and ſo departed, leaving both wall
+<pb n="15" facs="tcp:118071:8"/>
+and foole to Mr.</hi> Hector, <hi>but certainly theſe Redamontado's, theſe greatly brave fellowes, when they conſider the unhappy lives they lead, cannot chuſe but highly reſent it, in my judgement they ſhould, for to have a continuall care upon their hands of providing themſelves food and rai<g ref="char:EOLhyphen"/>ment, with ſuch extraordinary danger attending it, the danger making it not at all in this caſe honourable, but happy be luckey, they are reſolved for it, and to that purpoſe they reſolve upon a whole beny of Miſtreſſes, which they get up and downe the Towne as their ſtarres direct them; and 'tis uſuall with theſe Gallants to fleece them, till they leave them as bare as an Hens arſe, and then they get others who muſt run the like careere of For<g ref="char:EOLhyphen"/>tunes, for having once given but poſſeſsion of the maine to theſe ill mind<g ref="char:EOLhyphen"/>ed Gallants, they ſhal not be left as long as Money, Jewels, Watches, Rings, or any other things of value, yea their cloathes, nay their very Smocks and all doe laſt, and theſe poore fooles are ſo beſotted, that they cannot any way endeavour to evade theſe dangers, which thoſe giddy-headed Gallants lead them into; my heavie curſe light upon them that thus corrupt good natures, putting them a wrong byas; but for the Sodomiticall Whores and Bauds, with the Siſters of Gomorrah, let them light upon all the misfor<g ref="char:EOLhyphen"/>tunes imaginable.</hi>
+               </p>
+            </div>
+            <div n="16" type="chapter">
+               <head>Chap. XVI. Proceeds in the ſtories of the <hi>Hectors,</hi> with ſome flim flams.</head>
+               <p>THeſe be the Gallants, Gentlemen that enjoy a great portion of the earth, and though they live not by the ſweat of their browes, yet aſſuredly they make their braines ake; theſe be the Blades, Brothers of the Sword, the noble <hi>Hectors,</hi> Champions of the time, men whoſe backes are ſteele, who can af<g ref="char:EOLhyphen"/>ford you more Oathes and Lyes then other diſcourſe; O the Devil, that ſuch men were ever part of the Creation, whoſe broken for<g ref="char:EOLhyphen"/>tunes muſt be upheld by others ruines, they are like infection, fly up and downe the Towne without controle, crying, have at all my boyes; theſe noble ſouls, with a murrian to them, muſt have their rich Wine and Sauces, with variety, and Hab nab they wil have it, when God knowes ſome innocent Gentleman, that dreames of nothing but the good of his Country, and family, is, to avoid a quarrel in effect, made a Purſe-bearer to theſe <hi>Goliah-</hi>like Champion <hi>Hectors,</hi> I would the State would baniſh them all into the barren Mountaines of <hi>Scotland,</hi> there to converſe with hunger and cold, hard Lodging, and Lice, to the taming their pride and
+<pb n="14" facs="tcp:118071:9"/>
+prodigality, for I have little hope of their converſion, except they chance to come to Tiburn, and I think them moſt happy that go that way, for there they take ſome little time to repent; whereas by o<g ref="char:EOLhyphen"/>ther deaths they take none at all, for either they dye by Duel, and then they ſtudy too much honour to repent, or by ſickneſſe, and then they wil not beleeve their deaths; or by ſome ſudden rancounter, or deſigne, and then tis ſo ſudden, and in the act of wickedneſſe, that 'tis impoſſible they ſhould ever repent there, and thus theſe looſe fellowes doe in a trice bring themſelves to deſtruction and ruine, for a little time of pleaſure, which if they did conſider with what a price they yearne it, they would never embrace it with ſuch delight.</p>
+            </div>
+            <div n="17" type="chapter">
+               <head>CHAP. XVII. Concluſion, with a Chriſtian advice to the <hi>Hectors.</hi>
+               </head>
+               <p>
+                  <hi>ANd now for ſhame give over, ſeeing all your plots and devices are found out, and diſcovered; I have named none of you, becauſe I hope you will amend without publike diſgrace; leave off your robbing, ſtealing, filching, nimming of rings, hat-bands, bodkins, and ſuch other stuffe; leave your wboring, cheating, lying, drinking, dicing, ſwearing, quarrelling, fighting, making of quarrels, all theſe ſins you know your ſelves guilty of, in an extraordinary rate of living; goe no more to Bau<g ref="char:EOLhyphen"/>dy-houſes, or to Churches with Chimnics in them; frequent no Gaming<g ref="char:EOLhyphen"/>houſes, if you will fight goe to the Warres, where ile be bound you ſhall have enough of that ſport, and there you will gaine more honour and cre<g ref="char:EOLhyphen"/>dit then by your throwing pots at Drawers heads. To conclude, I deſire you take this advice, but if you will not chuſe, ile give you otker ſhall rid you from all ill living. Goe to Tiburne and be hang'd.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
